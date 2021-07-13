@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Satyam parashar. I am currently in 4th year of my engineering. I am majoring in Computer science and system engineering. 
+- 👀 I’m interested in DevOps,ML,Cloud computing and automation.
+- 🌱 I’m currently learning cloud computing.
